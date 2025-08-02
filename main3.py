@@ -1,0 +1,5 @@
+print("enter your favourite car")
+favouritecar =input("eneter car")
+print("your favourite car is",favouritecar.upper())
+print("your favourite car is",favouritecar.lower())
+print("reverse of",favouritecar,"is",favouritecar[::-1])
